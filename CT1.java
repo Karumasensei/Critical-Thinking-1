@@ -1,11 +1,11 @@
 public class CT1 {
     public static void main(String[] args) {
         // Declare variables for restaurant information
-        String restaurantName = " Whatever";
-        String businessAddress = "123 My Wife's Answer";
-        String city = "Most of the Time";
-        String state = "ISK";
-        String zipCode = "A80UT F00D";
+        String restaurantName = " Sushi.com";
+        String businessAddress = "430 W Main Ave";
+        String city = "Spokane";
+        String state = "WA";
+        String zipCode = "99201";
 
         // Print the restaurant information
         System.out.println("Restaurant Name: " + restaurantName);
